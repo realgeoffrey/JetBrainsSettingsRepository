@@ -1,0 +1,6 @@
+<application>
+  <component name="EmmetOptions">
+    <option name="bemModifierSeparator" value="--" />
+    <option name="previewEnabled" value="true" />
+  </component>
+</application>

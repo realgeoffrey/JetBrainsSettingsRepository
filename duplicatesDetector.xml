@@ -1,0 +1,22 @@
+<application>
+  <component name="DuplicatesDetector">
+    <entry key="ActionScript">
+      <language>
+        <option name="anonymizeFunctions" value="true" />
+        <option name="anonymizeLiterals" value="true" />
+      </language>
+    </entry>
+    <entry key="JavaScript">
+      <language>
+        <option name="anonymizeFunctions" value="true" />
+        <option name="anonymizeLiterals" value="true" />
+      </language>
+    </entry>
+    <entry key="TypeScript">
+      <language>
+        <option name="anonymizeFunctions" value="true" />
+        <option name="anonymizeLiterals" value="true" />
+      </language>
+    </entry>
+  </component>
+</application>
