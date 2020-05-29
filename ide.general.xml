@@ -11,4 +11,11 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="dumb.aware.run.configurations" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
