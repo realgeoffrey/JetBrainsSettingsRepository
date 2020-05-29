@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/node" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/webpack" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>

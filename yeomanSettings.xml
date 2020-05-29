@@ -1,0 +1,5 @@
+<application>
+  <component name="YeomanSettings">
+    <option name="nodeExePath" value="node" />
+  </component>
+</application>

@@ -1,0 +1,296 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Behat">
+        <behat_settings>
+          <BehatSettings />
+        </behat_settings>
+      </component>
+      <component name="ComposerSettings">
+        <execution>
+          <executable />
+        </execution>
+      </component>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="Git.Settings">
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0" is_locked="false">
+          <option name="myName" value="Project" />
+          <inspection_tool class="ChainedEqualityJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="CssConvertColorToHexInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="CssConvertColorToRgbInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="DefaultNotLastCaseInSwitchJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="DivideByZeroJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="DuplicateConditionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="ES6ConvertVarToLetConst" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="ForLoopThatDoesntUseLoopVariableJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="FunctionWithInconsistentReturnsJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="HtmlNonExistentInternetResource" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="HtmlUnknownAttribute" enabled="false" level="WARNING" enabled_by_default="false">
+            <option name="myValues">
+              <value>
+                <list size="0" />
+              </value>
+            </option>
+            <option name="myCustomValuesEnabled" value="true" />
+          </inspection_tool>
+          <inspection_tool class="HtmlUnknownTag" enabled="false" level="WARNING" enabled_by_default="false">
+            <option name="myValues">
+              <value>
+                <list size="6">
+                  <item index="0" class="java.lang.String" itemvalue="nobr" />
+                  <item index="1" class="java.lang.String" itemvalue="noembed" />
+                  <item index="2" class="java.lang.String" itemvalue="comment" />
+                  <item index="3" class="java.lang.String" itemvalue="noscript" />
+                  <item index="4" class="java.lang.String" itemvalue="embed" />
+                  <item index="5" class="java.lang.String" itemvalue="script" />
+                </list>
+              </value>
+            </option>
+            <option name="myCustomValuesEnabled" value="true" />
+          </inspection_tool>
+          <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="LabeledStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="NestedSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="NonBlockStatementBodyJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="TailRecursionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="W3CssValidation" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="myCssVersion" value="css3" />
+            <option name="myIgnoreVendorSpecificProperties" value="false" />
+          </inspection_tool>
+          <inspection_tool class="XmlUnboundNsPrefix" enabled="false" level="WARNING" enabled_by_default="false" />
+        </profile>
+        <option name="PROJECT_PROFILE" value="Geoffrey" />
+        <option name="USE_PROJECT_PROFILE" value="false" />
+        <version value="1.0" />
+      </component>
+      <component name="JSHintConfiguration" version="2.10.2" use-config-file="false">
+        <option asi="true" />
+        <option bitwise="true" />
+        <option boss="false" />
+        <option browser="true" />
+        <option browserify="false" />
+        <option camelcase="false" />
+        <option couch="false" />
+        <option curly="true" />
+        <option debug="false" />
+        <option devel="true" />
+        <option dojo="false" />
+        <option elision="false" />
+        <option enforceall="false" />
+        <option eqeqeq="true" />
+        <option eqnull="false" />
+        <option es3="false" />
+        <option es5="false" />
+        <option esnext="true" />
+        <option esversion="6" />
+        <option evil="false" />
+        <option expr="false" />
+        <option forin="true" />
+        <option freeze="true" />
+        <option funcscope="false" />
+        <option futurehostile="true" />
+        <option gcl="false" />
+        <option globalstrict="false" />
+        <option immed="false" />
+        <option iterator="false" />
+        <option jasmine="true" />
+        <option jquery="true" />
+        <option lastsemic="true" />
+        <option latedef="nofunc" />
+        <option laxbreak="false" />
+        <option laxcomma="false" />
+        <option loopfunc="false" />
+        <option maxerr="50" />
+        <option maxlen="150" />
+        <option mocha="true" />
+        <option module="true" />
+        <option mootools="false" />
+        <option moz="false" />
+        <option multistr="false" />
+        <option newcap="false" />
+        <option noarg="true" />
+        <option nocomma="true" />
+        <option node="true" />
+        <option noempty="false" />
+        <option nomen="false" />
+        <option nonbsp="true" />
+        <option nonew="false" />
+        <option nonstandard="true" />
+        <option notypeof="false" />
+        <option noyield="false" />
+        <option onevar="false" />
+        <option passfail="false" />
+        <option phantom="false" />
+        <option plusplus="true" />
+        <option proto="false" />
+        <option prototypejs="false" />
+        <option qunit="false" />
+        <option quotmark="false" />
+        <option rhino="false" />
+        <option scripturl="false" />
+        <option shadow="false" />
+        <option shelljs="false" />
+        <option singleGroups="true" />
+        <option smarttabs="false" />
+        <option strict="false" />
+        <option sub="false" />
+        <option supernew="false" />
+        <option trailing="true" />
+        <option typed="true" />
+        <option undef="true" />
+        <option unused="strict" />
+        <option validthis="false" />
+        <option varstmt="false" />
+        <option white="false" />
+        <option withstmt="false" />
+        <option worker="true" />
+        <option wsh="false" />
+        <option yui="false" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsBowerSettings">
+        <node-interpreter value="node" />
+        <bower-package value="" />
+        <bower.json value="" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="PhpUnit">
+        <phpunit_settings>
+          <PhpUnitSettings />
+        </phpunit_settings>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="user" />
+        <dictionary name="x" />
+        <dictionary name="Geoffrey" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Geoffrey">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AngularJS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+        <entry key="Project">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AngularJS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AngularJS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectResources">
+        <xml-schema-version>XMLSchema_1_1</xml-schema-version>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="HbShouldOpenHtmlAsHb" value="" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+        <property name="js-jscs-nodeInterpreter" value="\usr\local\bin\node" />
+        <property name="js.eslint.eslintPackage" value="" />
+        <property name="js.eslint.nodeInterpreter" value="/usr/local/bin/node" />
+        <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+        <property name="node.js.path.for.package.eslint" value="project" />
+        <property name="node.js.path.for.package.jscs" value="node" />
+        <property name="node.js.path.for.package.standard" value="node" />
+        <property name="node.js.path.for.package.stylelint" value="node" />
+        <property name="node.js.path.for.package.tslint" value="project" />
+        <property name="node.js.selected.package.eslint" value="(autodetect)" />
+        <property name="node.js.selected.package.jscs" value="" />
+        <property name="node.js.selected.package.standard" value="C:/Program Files/nodejs/node_modules/eslint" />
+        <property name="node.js.selected.package.stylelint" value="" />
+        <property name="node.js.selected.package.tslint" value="(autodetect)" />
+        <property name="nodejs_interpreter_path" value="node" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="nodejs_package_manager_path" value="npm" />
+        <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+        <property name="settings.editor.splitter.proportion" value="0.26415095" />
+      </component>
+      <component name="PublishConfigData" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;node_modules;Thumbs.db;.nuxt;" />
+      <component name="SshConsoleOptionsProvider">
+        <option name="myEncoding" value="UTF-8" />
+        <option name="myConnectionType" value="NONE" />
+      </component>
+      <component name="SvnConfiguration" myUseAcceleration="nothing">
+        <configuration>C:\Users\Geoffrey\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="TypeScriptCompiler">
+        <option name="nodeInterpreterTextField" value="node" />
+        <option name="useConfig" value="true" />
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.15162455" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

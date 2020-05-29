@@ -1,0 +1,13 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
+    <notification groupId="Indexing" />
+    <notification groupId="PHPUnit" displayType="TOOL_WINDOW" />
+    <notification groupId="Profiling" />
+    <notification groupId="Remote Desktop" />
+    <notification groupId="System Health" displayType="STICKY_BALLOON" />
+    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
+  </component>
+</application>
