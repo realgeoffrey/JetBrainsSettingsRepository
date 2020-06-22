@@ -1,30 +1,5 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="REFORMAT_ON_PASTE" value="4" />
-    <option name="HIGHLIGHT_SCOPE" value="true" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Geoffrey">
-    <option name="AUTOREPARSE_DELAY" value="400" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Fira Code" />
-    <option name="LINE_SPACING" value="1.0" />
-    <option name="SECONDARY_FONT_FAMILY" value="SimSun" />
-  </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="CARET_BLINKING_PERIOD" value="400" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
-  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
-  </component>
-  <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
 </application>
