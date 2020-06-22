@@ -12,7 +12,7 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="LINE_SPACING" value="1.0" />
-    <option name="SECONDARY_FONT_FAMILY" value="SimSun" />
+    <option name="SECONDARY_FONT_FAMILY" value="JetBrains Mono" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
