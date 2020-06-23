@@ -16,7 +16,6 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="movie" type="PLAIN_TEXT" />
       <mapping ext="js_old" type="PLAIN_TEXT" />
       <mapping ext="postcss" type="PLAIN_TEXT" />
