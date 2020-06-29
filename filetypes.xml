@@ -18,6 +18,7 @@
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="movie" type="PLAIN_TEXT" />
       <mapping ext="js_old" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="postcss" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
