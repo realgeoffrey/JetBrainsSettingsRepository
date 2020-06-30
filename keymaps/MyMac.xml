@@ -11,6 +11,7 @@
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
   </action>
+  <action id="ContextHelp" />
   <action id="CopyElement" />
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="delete" />
