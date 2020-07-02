@@ -6,7 +6,6 @@
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="RIGHT_MARGIN" value="150" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_ALIGN_TEXT" value="true" />
   <CssCodeStyleSettings>
@@ -25,13 +24,11 @@
     <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
-    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
-    <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
-    <option name="JSX_ATTRIBUTE_VALUE" value="Quotes" />
+    <option name="JSX_ATTRIBUTE_VALUE" value="Based on type" />
     <option name="VAR_DECLARATION_WRAP" value="5" />
     <option name="IMPORTS_WRAP" value="0" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
@@ -58,10 +55,8 @@
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
   </StylusCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
-    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
-    <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
     <option name="VAR_DECLARATION_WRAP" value="5" />
