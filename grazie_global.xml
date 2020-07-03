@@ -6,5 +6,10 @@
         <option value="Chinese" />
       </set>
     </option>
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInCommitMessagesEnabled" value="true" />
+      </CheckingContext>
+    </option>
   </component>
 </application>
