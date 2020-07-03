@@ -1,8 +1,4 @@
 <keymap version="1" name="MyMac" parent="Mac OS X">
-  <action id="$Delete">
-    <keyboard-shortcut first-keystroke="delete" />
-    <keyboard-shortcut first-keystroke="back_space" />
-  </action>
   <action id="ClassNameCompletion" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta alt space" />
@@ -51,6 +47,10 @@
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
