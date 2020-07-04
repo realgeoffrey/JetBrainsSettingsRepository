@@ -10,6 +10,7 @@
     <option name="AUTOREPARSE_DELAY" value="400" />
   </component>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="LINE_SPACING" value="1.0" />
     <option name="SECONDARY_FONT_FAMILY" value="JetBrains Mono" />
