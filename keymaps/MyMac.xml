@@ -40,6 +40,7 @@
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="home" />
   </action>
+  <action id="ExternalJavaDoc" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
