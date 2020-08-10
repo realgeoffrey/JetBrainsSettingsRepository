@@ -7,6 +7,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" />
+    <option name="FILE_MASK" value="*.ejs" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -22,5 +23,6 @@
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.ejs</mask>
   </component>
 </application>
