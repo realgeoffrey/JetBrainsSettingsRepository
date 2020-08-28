@@ -7,6 +7,7 @@
       <mapping pattern="0730.md" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="pc" type="PLAIN_TEXT" />
+      <mapping pattern="IndexPageScrollView" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
