@@ -27,8 +27,8 @@
     <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
-    <mask>*.ts</mask>
     <mask>*.ejs</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
