@@ -1,0 +1,7 @@
+<application>
+  <component name="KeyPromoterXSettings">
+    <option name="disabledInPresentationMode" value="true" />
+    <option name="disabledInDistractionFreeMode" value="true" />
+    <option name="installedVersion" value="2020.2" />
+  </component>
+</application>
