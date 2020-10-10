@@ -5,6 +5,7 @@
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
     <notification groupId="Indexing" />
     <notification groupId="JavaScript Debugger Console URL Starter" displayType="NONE" shouldLog="false" />
+    <notification groupId="Key Promoter X" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="PHPUnit" displayType="TOOL_WINDOW" />
     <notification groupId="Profiling" />
     <notification groupId="Remote Desktop" />
