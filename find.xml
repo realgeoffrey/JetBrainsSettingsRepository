@@ -26,5 +26,6 @@
     <mask>*.ejs</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.jce</mask>
   </component>
 </application>
