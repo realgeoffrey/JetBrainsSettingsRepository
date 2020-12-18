@@ -26,10 +26,10 @@
     <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.ejs</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.jce</mask>
+    <mask>*.js</mask>
   </component>
 </application>
