@@ -5,8 +5,8 @@
       <mapping pattern="logs" type="AUTO_DETECTED" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern="0730.md" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern="0730.md" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="pc" type="PLAIN_TEXT" />
       <mapping pattern="IndexPageScrollView" type="PLAIN_TEXT" />
