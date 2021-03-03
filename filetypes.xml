@@ -7,6 +7,7 @@
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="0730.md" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="pc" type="PLAIN_TEXT" />
       <mapping pattern="IndexPageScrollView" type="PLAIN_TEXT" />
