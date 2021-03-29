@@ -532,6 +532,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.log">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.ideolog" />
+              <option name="myPluginName" value="Ideolog" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mdb">
           <value>
             <plugin>
