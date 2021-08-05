@@ -1,9 +1,10 @@
 <application>
   <component name="GraziConfig">
-    <option name="checkingContext">
-      <CheckingContext>
-        <option name="isCheckInCommitMessagesEnabled" value="true" />
-      </CheckingContext>
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Chinese" />
+      </set>
     </option>
   </component>
 </application>
