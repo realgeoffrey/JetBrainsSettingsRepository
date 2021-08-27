@@ -13,6 +13,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jce" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -26,10 +27,10 @@
     <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*.ejs</mask>
-    <mask>*.jce</mask>
     <mask>*.tsx</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.jce</mask>
   </component>
 </application>
