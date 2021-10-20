@@ -5,30 +5,38 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="fromCursor" value="false" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.tpl</mask>
     <mask>*.md</mask>
-    <mask>*.html</mask>
-    <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*.ejs</mask>
     <mask>*.tsx</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
-    <mask>*.ts</mask>
     <mask>*.jce</mask>
     <mask>*.less</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
   </component>
 </application>
