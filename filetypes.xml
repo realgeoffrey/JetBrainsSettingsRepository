@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="logs" type="AUTO_DETECTED" />
       <mapping pattern="addHosts" type="AUTO_DETECTED" />
+      <mapping ext="tars" type="Jce File" />
       <mapping pattern="0730.md" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
