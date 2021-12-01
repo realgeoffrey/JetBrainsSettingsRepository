@@ -4,9 +4,6 @@
     <extensionMap>
       <mapping pattern="logs" type="AUTO_DETECTED" />
       <mapping pattern="addHosts" type="AUTO_DETECTED" />
-      <mapping pattern="Dockerfile备份" type="AUTO_DETECTED" />
-      <mapping pattern="dockerfile" type="AUTO_DETECTED" />
-      <mapping ext="tars" type="Jce File" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
@@ -30,7 +27,6 @@
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
-      <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="js_old" type="PLAIN_TEXT" />
       <mapping ext="swig" type="Twig" />
