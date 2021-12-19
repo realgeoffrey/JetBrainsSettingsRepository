@@ -26,7 +26,7 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="docker.inlay.hints" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
