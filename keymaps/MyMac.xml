@@ -76,6 +76,7 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="ShowReformatFileDialog" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl meta alt space" />
   </action>
