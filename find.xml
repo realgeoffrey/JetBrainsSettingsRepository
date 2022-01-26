@@ -17,7 +17,6 @@
     <mask>*.tpl</mask>
     <mask>*.md</mask>
     <mask>*.html</mask>
-    <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*.ejs</mask>
     <mask>*.vue</mask>
@@ -25,5 +24,6 @@
     <mask>*.ts</mask>
     <mask>*.jce</mask>
     <mask>*.tsx</mask>
+    <mask>*.css</mask>
   </component>
 </application>
