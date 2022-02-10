@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="logs" type="AUTO_DETECTED" />
       <mapping pattern="addHosts" type="AUTO_DETECTED" />
+      <mapping pattern="line-count" type="AUTO_DETECTED" />
       <mapping pattern="IndexComponent" type="AUTO_DETECTED" />
       <mapping ext="tars" type="Jce File" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
