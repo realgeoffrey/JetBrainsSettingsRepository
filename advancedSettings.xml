@@ -4,6 +4,7 @@
       <map>
         <entry key="ide.open.readme.md.on.startup" value="false" />
         <entry key="ide.usages.page.size" value="150" />
+        <entry key="show.diff.as.editor.tab" value="false" />
       </map>
     </option>
   </component>
