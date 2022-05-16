@@ -30,7 +30,6 @@
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="js_old" type="PLAIN_TEXT" />
-      <mapping ext="swig" type="Twig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -39,6 +38,7 @@
       <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="m" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="swig" type="Twig" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".gitignoreglobal" type="Git file" />
     </extensionMap>
