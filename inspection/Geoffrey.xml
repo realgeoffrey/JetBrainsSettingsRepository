@@ -56,7 +56,6 @@
   <inspection_tool class="LabeledStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonBlockStatementBodyJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="TailRecursionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="XmlUnboundNsPrefix" enabled="false" level="WARNING" enabled_by_default="false" />
