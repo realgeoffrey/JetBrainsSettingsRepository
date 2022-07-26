@@ -2,6 +2,7 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
+        <entry key="documentation.components.enable.inline.code.highlighting" value="true" />
         <entry key="ide.open.readme.md.on.startup" value="false" />
         <entry key="ide.usages.page.size" value="150" />
         <entry key="searcheverywhere.ml.sort.files" value="true" />

@@ -66,7 +66,6 @@
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
   </StylusCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
-    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
