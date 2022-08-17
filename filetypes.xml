@@ -27,6 +27,7 @@
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="postcss" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="js_old" type="PLAIN_TEXT" />
