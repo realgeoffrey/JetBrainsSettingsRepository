@@ -1,12 +1,8 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <injection language="SQLite" injector-id="js">
-      <display-name>flash.data (SQLite)</display-name>
-      <place><![CDATA[jsLiteral().and(asAssignedValue("text", "*", "dbStatement"))]]></place>
-      <place><![CDATA[jsLiteral().and(asAssignedValue("text", "flash.data.SQLStatement"))]]></place>
-    </injection>
     <injection language="JSX Harmony" injector-id="xml">
       <display-name>View/@className</display-name>
+      <single-file value="true" />
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("className")).withParent(xmlTag().withLocalName(string().equalTo("View")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
   </component>

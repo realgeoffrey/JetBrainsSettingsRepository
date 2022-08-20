@@ -7,6 +7,8 @@
         <entry key="ide.usages.page.size" value="150" />
         <entry key="searcheverywhere.ml.sort.files" value="true" />
         <entry key="show.diff.as.editor.tab" value="false" />
+        <entry key="terminal.show.application.title" value="true" />
+        <entry key="vcs.non.modal.commit.toggle.ui" value="true" />
       </map>
     </option>
   </component>
